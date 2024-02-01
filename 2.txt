@@ -1,0 +1,144 @@
+BBG002W2FT69 ABRD АбрауДюрсо
+BBG004S68614 AFKS АФК Система
+BBG004S683W7 AFLT Аэрофлот
+BBG007N0Z367 AGRO РусАгро
+BBG004S688G4 AKRN Акрон
+BBG004S68B31 ALRS АЛРОСА
+BBG000RJWGC4 AMEZ Ашинский метзавод
+BBG000K3STR7 APTK Аптечная сеть 36,6
+BBG000W325F7 AQUA ИНАРКТИКА
+BBG004S68758 BANE Башнефть
+BBG004S686N0 BANEP Башнефть - привилегированные акции
+BBG000TY1CD1 BELU Белуга Групп ПАО ао
+BBG000VQWH86 BLNG Белон
+BBG000QJW156 BSPB Банк Санкт-Петербург
+BBG009GSYN76 CBOM МКБ
+BBG00475K6C3 CHMF Северсталь
+BBG000RP8V70 CHMK ЧМК
+BBG012YQ6P43 CIAN Циан АДР
+BBG000BBV4M5 CNTL Центральный Телеграф
+BBG0027F0Y27 CNTLP Центральный Телеграф - акции привилегированные
+BBG000BN56Q9 DSKY Детский Мир
+BBG000V07CB8 DVEC ДЭК
+BBG000F6YPH8 ELFV ЭЛ5-Энерго
+BBG000RMWQD4 ENPG En+ Group
+BBG001M2SC01 ETLN Etalon Group PLC ГДР
+BBG00475JZZ6 FEES ФСК Россети
+BBG000QF1Q17 FESH ДВМП
+BBG00JXPFBN0 FIVE X5 RetailGroup ГДР
+BBG00ZHCX1X2 FIXP Fix Price Group
+BBG000R04X57 FLOT Совкомфлот
+BBG004730RP0 GAZP Газпром
+BBG000RTHVK7 GCHE Группа Черкизово
+TCS00A105BN4 GECO Генетико
+BBG011MCM288 GEMC United medical group
+BBG000VFX6Y4 GLTR Globaltrans Investment PLC
+BBG004731489 GMKN Норильский никель
+BBG00B8NN386 GRNT Городские Инновационные Технологии
+BBG00HY6V6H5 GTRK ГТМ
+BBG00475K2X9 HYDR РусГидро
+BBG004S68473 IRAO Интер РАО ЕЭС
+BBG000FWGSZ5 IRKT Корпорация ИРКУТ
+BBG000N16BP3 ISKJ ИСКЧ
+BBG002B9MYC1 KAZT КуйбышевАзот
+BBG002B9T6Y1 KAZTP КуйбышевАзот - Акции привилегированные
+BBG000DBD6F6 KLSB Калужская сбытовая компания
+BBG000LNHHJ9 KMAZ КАМАЗ
+BBG002B2J5X0 KRKNP Саратовский НПЗ - акции привилегированные
+BBG000NLB2G3 KROT Красный Октябрь
+BBG0029SFXB3 KZOS ПАО «КАЗАНЬОРГСИНТЕЗ»
+BBG0029SG1C1 KZOSP ПАО «КАЗАНЬОРГСИНТЕЗ» - акции привилегированные
+BBG0063FKTD9 LENT Лента
+BBG0019K04R5 LIFE Фармсинтез
+BBG004731032 LKOH ЛУКОЙЛ
+BBG000SK7JS5 LNZL Лензолото
+BBG000SR0YS4 LNZLP Лензолото - привилегированные акции
+BBG000NLC9Z6 LSNG Ленэнерго
+BBG000NLCCM3 LSNGP Ленэнерго - акции привилегированные
+BBG004S68C39 LSRG Группа ЛСР
+BBG004S68507 MAGN Магнитогорский металлургический комбинат
+BBG00Y3XYV94 MDMG Мать и дитя
+TCS1303M1027 META-RM Meta Platforms
+BBG004RVFCY3 MGNT Магнит
+BBG000PZ0833 MGTSP МГТС - акции привилегированные
+BBG004730JJ5 MOEX Московская Биржа
+BBG000VH7TZ8 MRKC Россети Центр
+BBG000VG1034 MRKP Россети Центр и Приволжье
+BBG000VJMH65 MRKS МРСК Сибири
+BBG000VKG4R5 MRKU МРСК Урала
+BBG000PKWCQ7 MRKV МРСК Волги
+BBG000C7P5M7 MRKY МРСК Юга
+BBG000TJ6F42 MRKZ Россети Северо-Запад
+BBG004S687W8 MSNG Мосэнерго
+BBG004S687G6 MSRS МОЭСК
+BBG004S68DD6 MSTT Мостотрест
+BBG004S68598 MTLR Мечел
+BBG004S68FR6 MTLRP Мечел - Привилегированные акции
+BBG004S681W1 MTSS МТС
+BBG004S68CP5 MVID М.видео
+BBG00BGKYH17 NKHP НКХП
+BBG000GQSRR5 NKNC Нижнекамскнефтехим
+BBG000GQSVC2 NKNCP Нижнекамскнефтехим - акции привилегированные
+BBG004S681B4 NLMK НЛМК
+BBG004S68BR5 NMTP НМТП
+BBG002BCQK67 NSVZ Наука-Связь
+BBG00475KKY8 NVTK НОВАТЭК
+BBG000RK52V1 OGKB Вторая генерирующая компания оптового рынка электроэнергии
+BBG00172J7S9 OKEY O'Key Group SA
+BBG001BBGNS2 ORUP Обувь России
+BBG00Y91R9T3 OZON Ozon Holdings PLC
+TCS134481081 PEP-RM PepsiCo
+BBG004S689R0 PHOR ФосАгро
+BBG004S68BH6 PIKK ПИК
+BBG000R607Y3 PLZL Полюс
+BBG000MZL0Y6 PMSB Пермэнергосбыт
+BBG000MZL2S9 PMSBP Пермэнергосбыт - акции привилегированные
+BBG004PYF2N3 POLY Polymetal
+TCS00A103X66 POSI Positive Technologies
+BBG003BNWBP3 PRFN ЧЗПСН
+BBG005D1WCQ1 QIWI QIWI
+BBG004S68696 RASP Распадская
+BBG00QKJSX05 RENI Ренессанс Страхование
+BBG000LWNRP3 RKKE РКК Энергия им.С.П.Королева
+BBG00F9XX7H4 RNFT РуссНефть
+BBG004Z2RGW8 ROLO Русолово
+BBG004731354 ROSN Роснефть
+BBG004S682Z6 RTKM Ростелеком
+BBG004S685M3 RTKMP Ростелеком - Привилегированные акции
+BBG008F2T3T2 RUAL РУСАЛ
+BBG0014PFYM2 RUGR Русгрэйн
+BBG004730N88 SBER Сбер Банк
+BBG0047315Y7 SBERP Сбер Банк - привилегированные акции
+BBG002458LF8 SELG Селигдар
+BBG003LYCMB1 SFIN ЭсЭфАй
+BBG0136BTL03 SFTL Noventiq ГДР
+BBG0100R9963 SGZH Сегежа
+BBG004S684M6 SIBN Газпром нефть
+BBG00F6NKQX3 SMLT ГК Самолет
+BBG0047315D0 SNGS Сургутнефтегаз
+BBG004S681M2 SNGSP Сургутнефтегаз - привилегированные акции
+BBG002GHV6L9 SPBE СПБ Биржа
+BBG004S68JR8 SVAV СОЛЛЕРС
+BBG004RVFFC0 TATN Татнефть
+BBG004S68829 TATNP Татнефть - привилегированные акции
+BBG00QPYJ5H0 TCSG TCS Group
+BBG000QFH687 TGKA ТГК-1
+BBG000Q7GG57 TGKB ТГК-2
+BBG000Q7GJ60 TGKBP ТГК-2 - акции привилегированные
+BBG000RG4ZQ4 TGKN ТГК-14
+BBG004TC84Z8 TRMK Трубная Металлургическая Компания
+BBG00475KHX6 TRNFP Транснефть - привилегированные акции
+TCS8160R1014 TSLA-RM Tesla Motors
+BBG000RJL816 TTLK Таттелеком
+BBG000Q7ZZY2 UNAC Объединенная авиастроительная корпорация
+BBG002YFXL29 UNKL ЮУНК
+BBG004S686W0 UPRO Юнипро
+BBG008HD3V85 UWGN ОВК
+BBG00R4Z2NT4 VEON-RX VEON
+BBG00178PGX3 VKCO VK
+BBG000BX7DH0 VRSB ТНС энерго Воронеж
+BBG004S68CV8 VSMO ВСМПО-АВИСМА
+BBG004730ZJ9 VTBR Банк ВТБ
+TCS00A105EX7 WUSH Whoosh
+BBG002B298N6 YAKG ЯТЭК
+BBG006L8G4H1 YNDX Yandex
