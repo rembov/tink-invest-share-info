@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 
 def tnk(ticker1):
-    ticker = str(ticker1)  # "BRH3" "SBER" "VTBR"
+    ticker = str(ticker1)
 
     with Client(TOKEN) as client:
         instruments: InstrumentsService = client.instruments

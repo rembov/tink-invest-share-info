@@ -8,8 +8,8 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.fsm.state import StatesGroup, State
 import keyboards
 from aiogram import F
+
 bot = Bot(token)
-# Диспетчер
 dp = Dispatcher()
 storage = MemoryStorage()
 
@@ -20,7 +20,7 @@ class New1(StatesGroup):
 
 @dp.message(Command("start"))
 async def st(message: types.Message, state: FSMContext):
-    await message.answer("Бот запущен",reply_markup=keyboards.keyboard)
+    await message.answer("Бот запущен", reply_markup=keyboards.keyboard)
     await message.answer(f'Подождите,пока прогрузятся все данные')
     await asyncio.sleep(0.5)
     data = open('2.txt')
@@ -43,11 +43,13 @@ async def st(call: types.Message, state: FSMContext):
     await call.answer(f'Данные по акции\n{tink.tnk(d)}')
     await state.clear()
 
+
 @dp.message(F.text.lower() == "заново 🔁")
 async def add_item(message: types.Message, state: FSMContext):
     await message.answer("Бот запущен", reply_markup=keyboards.keyboard)
     await message.answer(f'Напишите в чат интересующий тикер')
     await state.set_state(New1.name)
+
 
 async def main():
     await dp.start_polling(bot)
